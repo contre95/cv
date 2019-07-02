@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30d9a8b0-6370-44f1-81ee-19bea5aaec3a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/examples/cv/summary.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/awesome-cv.cls" beforeDir="false" afterPath="$PROJECT_DIR$/awesome-cv.cls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/coverletter-0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/coverletter-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/coverletter.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/examples/coverletter.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/cv.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/examples/cv.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/cv.tex" beforeDir="false" afterPath="$PROJECT_DIR$/examples/cv.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/cv/committees.tex" beforeDir="false" afterPath="$PROJECT_DIR$/examples/cv/committees.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/cv/education.tex" beforeDir="false" afterPath="$PROJECT_DIR$/examples/cv/education.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/cv/experience.tex" beforeDir="false" afterPath="$PROJECT_DIR$/examples/cv/experience.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/cv/extracurricular.tex" beforeDir="false" afterPath="$PROJECT_DIR$/examples/cv/extracurricular.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/cv/honors.tex" beforeDir="false" afterPath="$PROJECT_DIR$/examples/cv/honors.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/cv/presentation.tex" beforeDir="false" afterPath="$PROJECT_DIR$/examples/cv/presentation.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/cv/skills.tex" beforeDir="false" afterPath="$PROJECT_DIR$/examples/cv/skills.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/cv/writing.tex" beforeDir="false" afterPath="$PROJECT_DIR$/examples/cv/writing.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/profile.png" beforeDir="false" afterPath="$PROJECT_DIR$/examples/profile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/resume-0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/resume-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/resume.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/examples/resume.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/resume.tex" beforeDir="false" afterPath="$PROJECT_DIR$/examples/resume.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/resume/education.tex" beforeDir="false" afterPath="$PROJECT_DIR$/examples/resume/education.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/resume/experience.tex" beforeDir="false" afterPath="$PROJECT_DIR$/examples/resume/experience.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/resume/extracurricular.tex" beforeDir="false" afterPath="$PROJECT_DIR$/examples/resume/extracurricular.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/resume/summary.tex" beforeDir="false" afterPath="$PROJECT_DIR$/examples/resume/summary.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/examples/resume/writing.tex" beforeDir="false" afterPath="$PROJECT_DIR$/examples/resume/writing.tex" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/cv/committees.tex">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/cv.tex">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="78" column="40" lean-forward="true" selection-start-line="78" selection-start-column="40" selection-end-line="78" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/cv/extracurricular.tex">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/examples/cv/skills.tex">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/examples/cv/education.tex">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="651">
+              <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>cventries</find>
+      <find>cvitem</find>
+      <find>pt</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/examples/resume/education.tex" />
+        <option value="$PROJECT_DIR$/examples/resume/summary.tex" />
+        <option value="$PROJECT_DIR$/examples/cv/experience.tex" />
+        <option value="$PROJECT_DIR$/awesome-cv.cls" />
+        <option value="$PROJECT_DIR$/examples/resume/writing.tex" />
+        <option value="$PROJECT_DIR$/examples/resume.tex" />
+        <option value="$PROJECT_DIR$/examples/resume/extracurricular.tex" />
+        <option value="$PROJECT_DIR$/examples/resume/experience.tex" />
+        <option value="$PROJECT_DIR$/examples/cv/education.tex" />
+        <option value="$PROJECT_DIR$/examples/cv.tex" />
+        <option value="$PROJECT_DIR$/examples/cv/extracurricular.tex" />
+        <option value="$PROJECT_DIR$/examples/cv/skills.tex" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/lucas-contreras-cv.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+        <option value="$PROJECT_DIR$/.idea/dictionaries/contre.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="5" />
+    <option name="y" value="1415" />
+    <option name="width" value="1910" />
+    <option name="height" value="365" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lucas-contreras-cv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lucas-contreras-cv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lucas-contreras-cv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lucas-contreras-cv" type="462c0819:PsiDirectoryNode" />
+              <item name=".circleci" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lucas-contreras-cv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lucas-contreras-cv" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lucas-contreras-cv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lucas-contreras-cv" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="cv" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lucas-contreras-cv" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lucas-contreras-cv" type="462c0819:PsiDirectoryNode" />
+              <item name="examples" type="462c0819:PsiDirectoryNode" />
+              <item name="resume" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/examples/cv" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/examples/cv" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/examples" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30d9a8b0-6370-44f1-81ee-19bea5aaec3a" name="Default Changelist" comment="" />
+      <created>1562037859003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562037859003</updated>
+      <workItem from="1562037860251" duration="195000" />
+      <workItem from="1562038072119" duration="7849000" />
+      <workItem from="1562046163012" duration="4303000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12347000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="1058" width="1922" height="1103" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12164297" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/examples/fontawesome.sty">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/cv/honors.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-441" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/cv.out">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/cv.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/cv.aux">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/resume-0.png" />
+    <entry file="file://$PROJECT_DIR$/examples/resume-1.png" />
+    <entry file="file://$PROJECT_DIR$/examples/profile.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/coverletter-0.png" />
+    <entry file="file://$PROJECT_DIR$/examples/coverletter-1.png" />
+    <entry file="file://$PROJECT_DIR$/screenshot-20190702-00:40:31.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/resume/education.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.circleci/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/resume/committees.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/resume/summary.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="550" selection-start-line="12" selection-start-column="550" selection-end-line="12" selection-end-column="550" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/coverletter.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-105">
+          <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/awesome-cv.cls">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-191">
+          <caret line="687" column="80" lean-forward="true" selection-start-line="687" selection-start-column="80" selection-end-line="687" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/cv/writing.tex">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/resume/writing.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" selection-start-line="13" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/resume/extracurricular.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/cv/experience.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/resume/experience.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="21" column="83" lean-forward="true" selection-start-line="21" selection-start-column="83" selection-end-line="21" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/resume.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="103" selection-start-line="103" selection-end-line="103" />
+          <folding>
+            <element signature="e#635#656#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/cv/education.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="31" column="3" selection-start-line="31" selection-start-column="3" selection-end-line="31" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/cv/committees.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/cv.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="78" column="40" lean-forward="true" selection-start-line="78" selection-start-column="40" selection-end-line="78" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/cv/extracurricular.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/examples/cv/skills.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="2" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
