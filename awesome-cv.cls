@@ -395,8 +395,8 @@ BoldItalicFont=*-MediumItalic,
 \newcommand{\acvHeaderAfterQuoteSkip}{5mm}
 
 % Others
-\newcommand{\acvSectionTopSkip}{3mm}
-\newcommand{\acvSectionContentTopSkip}{2.5mm}
+\newcommand{\acvSectionTopSkip}{1.5mm}
+\newcommand{\acvSectionContentTopSkip}{1.5mm}
 
 
 %-------------------------------------------------------------------------------
@@ -568,7 +568,7 @@ BoldItalicFont=*-MediumItalic,
 \color{gray}\vhrulefill{0.9pt}
 }
 
-% Define a subsection for CV
+% Define a subsection for CVhttp://127.0.0.1:8080/cv.pdf
 % Usage: \cvsubsection{<subsection-title>}
 \newcommand{\cvsubsection}[1]{%
 \vspace{\acvSectionContentTopSkip}
@@ -671,7 +671,7 @@ BoldItalicFont=*-MediumItalic,
 
 % Define an environment for cvitems(for cventry)
 \newenvironment{cvitems}{%
-\vspace{-4.0mm}
+\vspace{-4.5mm}
 \begin{justify}
 \begin{itemize}[leftmargin=4ex, nosep, noitemsep]
 \setlength{\parskip}{0pt}
@@ -679,7 +679,7 @@ BoldItalicFont=*-MediumItalic,
 }{%
 \end{itemize}
 \end{justify}
-\vspace{-4.0mm}
+\vspace{-4.5mm}
 }
 
 
