@@ -597,7 +597,7 @@ BoldItalicFont=*-MediumItalic,
 % Define an entry of cv information
 % Usage: \cventry{<position>}{<title>}{<location>}{<date>}{<description>}
 \newcommand*{\cventry}[5]{%
-\vspace{-2.0mm}
+\vspace{-2.5mm}
 \setlength\tabcolsep{0pt}
 \setlength{\extrarowheight}{0pt}
 \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{\textwidth - 4.5cm} R{4.5cm}}
@@ -611,17 +611,19 @@ BoldItalicFont=*-MediumItalic,
 
 % Define an environment for cvsubentry
 \newenvironment{cvsubentries}{%
+\vspace{-2mm}
 \begin{center}
 }{%
 \end{center}
 }
 % Define a subentry of cv information
 % Usage: \cvsubentry{<position>}{<title>}{<date>}{<description>}
+
 \newcommand*{\cvsubentry}[4]{%
 \setlength\tabcolsep{0pt}
 \setlength{\extrarowheight}{0pt}
 \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} L{\textwidth - 4.5cm} R{4.5cm}}
-\setlength\leftskip{0.2cm}
+\setlength\leftskip{0.1cm}
 \subentrytitlestyle{#2} & \ifthenelse{\equal{#1}{}}
 {\subentrydatestyle{#3}}{}
 \ifthenelse{\equal{#1}{}}
@@ -655,13 +657,13 @@ BoldItalicFont=*-MediumItalic,
 \newenvironment{cvskills}{%
 \vspace{\acvSectionContentTopSkip}
 \vspace{-2.0mm}
-\begin{center}
+\begin{justify}
 \setlength\tabcolsep{1ex}
 \setlength{\extrarowheight}{0pt}
 \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}} r L{\textwidth * \real{0.9}}}
 }{%
 \end{tabular*}
-\end{center}
+\end{justify}
 }
 % Define a line of cv information(skill)
 % Usage: \cvskill{<type>}{<skillset>}
