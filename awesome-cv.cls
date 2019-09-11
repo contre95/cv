@@ -568,7 +568,7 @@ BoldItalicFont=*-MediumItalic,
 \color{gray}\vhrulefill{0.9pt}
 }
 
-% Define a subsection for CVhttp://127.0.0.1:8080/cv.pdf
+% Define a subsection for CVhttp://127.0.0.1:8080/
 % Usage: \cvsubsection{<subsection-title>}
 \newcommand{\cvsubsection}[1]{%
 \vspace{\acvSectionContentTopSkip}
