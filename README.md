@@ -1,4 +1,4 @@
-#My CV in LaTeX
+# My CV in LaTeX
 
 This repo is a fork of [https://github.com/posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV)  which was inspired in [https://www.sharelatex.com/templates/cv-or-resume/fancy-cv](https://www.sharelatex.com/templates/cv-or-resume/fancy-cv)
 
