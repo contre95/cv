@@ -8,8 +8,8 @@ I run this command everytime I need to update my CV:
 $ docker run --rm -it -v /home/lucas/Code/ContreCode/cv:/home danteev/texlive bash
 ```
 
-Once inside the container I (from inside de `LaTex` folder) I run `
+Once inside the container I run the following command from inside the `LaTeX` folder:
 
 ```
-root@1f7f909c2b9f:/home# xelatex {your-cv}.tex
+root@1f7f909c2b9f:/home/LaTeX# xelatex {your-cv}.tex
 ```
