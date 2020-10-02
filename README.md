@@ -5,7 +5,7 @@ This repo is a fork of [https://github.com/posquit0/Awesome-CV](https://github.c
 I run this command everytime I need to update my CV:
 
 ```
-$ docker run --rm -it -v /home/lucas/Code/ContreCode/cv:/home danteev/texlive bash
+$ docker run --rm -it -v $(pwd):/home danteev/texlive bash
 ```
 
 Once inside the container I run the following command from inside the `LaTeX` folder:
