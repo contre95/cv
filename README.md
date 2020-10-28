@@ -4,11 +4,12 @@ This repo is a fork of [https://github.com/posquit0/Awesome-CV](https://github.c
 
 I run this command everytime I need to update my CV:
 
+Once inside the container I run the following command from inside the `LaTeX` folder:
+
 ```
 $ docker run --rm -it -v $(pwd):/home danteev/texlive bash
 ```
 
-Once inside the container I run the following command from inside the `LaTeX` folder:
 
 ```
 root@1f7f909c2b9f:/home/LaTeX# xelatex {your-cv}.tex
