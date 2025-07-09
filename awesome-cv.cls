@@ -142,7 +142,7 @@
 % Awesome colors
 \definecolor{awesome-emerald}{HTML}{00A388}
 \definecolor{awesome-skyblue}{HTML}{0395DE}
-\definecolor{awesome-red}{HTML}{DC3522}
+\definecolor{awesome-red}{HTML}{3E9DF0}
 \definecolor{awesome-pink}{HTML}{EF4089}
 \definecolor{awesome-orange}{HTML}{FF6138}
 \definecolor{awesome-nephritis}{HTML}{27AE60}
@@ -570,6 +570,12 @@
         {%
           \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
           \faSkype\acvHeaderIconSep\@skype%
+          }%
+      \ifthenelse{\isundefined{\@lang}}%
+        {}%
+        {%
+          \ifbool{isstart}{\setbool{isstart}{false}}{\acvHeaderSocialSep}%
+          \faGlobe\acvHeaderIconSep\@lang%
         }%
       \ifthenelse{\isundefined{\@reddit}}%
         {}%
